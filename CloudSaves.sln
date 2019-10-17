@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudSaves", "CloudSaves.csproj", "{49884F5A-A2E6-4A2F-AFC9-B3BC3D028E47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49884F5A-A2E6-4A2F-AFC9-B3BC3D028E47}.Debug|x86.ActiveCfg = Debug|x86
+		{49884F5A-A2E6-4A2F-AFC9-B3BC3D028E47}.Debug|x86.Build.0 = Debug|x86
+		{49884F5A-A2E6-4A2F-AFC9-B3BC3D028E47}.Release|x86.ActiveCfg = Release|x86
+		{49884F5A-A2E6-4A2F-AFC9-B3BC3D028E47}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16DB8D48-2E65-4994-831D-F89D90916017}
+	EndGlobalSection
+EndGlobal
